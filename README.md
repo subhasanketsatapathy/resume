@@ -1,2 +1,2 @@
-# resume
-My Resume
+# Resume
+Visit My Resume https://subhasanketsatapathy.github.io/resume/
